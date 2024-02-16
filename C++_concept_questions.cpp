@@ -1,11 +1,8 @@
+// TAKING 2 BASIC COMPLEX NUMBERS INPUT AND PRINTING THEM AFTER ADDING.
+
 #include <bits/stdc++.h>
 using namespace std;
 
-//-----------------------------------------------------------//
-
-// TAKING 2 BASIC COMPLEX NUMBERS INPUT AND PRINTING THEM AFTER ADDING.
-
-/*
 class Complex
 {
     int a, b;
@@ -52,4 +49,3 @@ int main()
     cout << "Sum of both Complex numbers is : ";
     sum.sumofcomplex(c1, c2);
 }
-*/
