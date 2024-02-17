@@ -1,2 +1,2 @@
 # Questions
- Basic C++ Concept question to understand the oops concepts.
+ Basic C++ questions to understand OOPS concepts.
